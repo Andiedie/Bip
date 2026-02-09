@@ -1,10 +1,6 @@
 # Bip
 
 <p align="center">
-  <img src="logo.jpg" alt="Bip Logo" width="200"/>
-</p>
-
-<p align="center">
   A simple voice stopwatch with Bluetooth remote support.
 </p>
 

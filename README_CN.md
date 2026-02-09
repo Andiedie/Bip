@@ -1,10 +1,6 @@
 # Bip
 
 <p align="center">
-  <img src="logo.jpg" alt="Bip Logo" width="200"/>
-</p>
-
-<p align="center">
   一个简单的语音秒表，支持蓝牙遥控器触发。
 </p>
 
