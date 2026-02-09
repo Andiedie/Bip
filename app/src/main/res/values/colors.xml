@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Wise Style -->
+    <color name="navy_blue">#163355</color>
+    <color name="bright_green">#2ED06E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_grey">#AAB3BD</color>
+</resources>
